@@ -31,7 +31,7 @@
 #include "Rect.h"
 #include <fstream>
 #include <limits>
-#define GamePackageName "com.kitkagames.fallbuddies" // define the game package name here please
+#define GamePackageName "com.vng.metalslug.rambolun-" // define the game package name here please
 
 int glHeight, glWidth;
 
