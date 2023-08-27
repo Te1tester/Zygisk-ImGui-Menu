@@ -30,7 +30,8 @@ android {
     }
     buildTypes{
         release {
-            minifyEnabled true
+            // minifyEnabled true
+              abiFilters  'arm64-v8a'
         }
     }
 }
