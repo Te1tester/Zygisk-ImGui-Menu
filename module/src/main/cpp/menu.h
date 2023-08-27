@@ -21,7 +21,7 @@ void DrawMenu()
                     // code for button action
                     addCurrency = true;
                 }
-                TextUnformatted(OBFUSCATE("Adds 1000 gems"));
+                TextUnformatted(OBFUSCATE("Adds 1 gems"));
                 if (Button(OBFUSCATE("Add Skins"))) {
                     // code for button action
                     addSkins = true;
