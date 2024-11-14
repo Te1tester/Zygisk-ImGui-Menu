@@ -31,7 +31,7 @@
 #include "Rect.h"
 #include <fstream>
 #include <limits>
-#define GamePackageName "com.vng.metalslug.rambolun" // define the game package name here please
+#define GamePackageName "com.mayoninjagames.zombiecubes2" // define the game package name here please
 
 int glHeight, glWidth;
 
